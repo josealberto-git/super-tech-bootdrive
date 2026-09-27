@@ -1,0 +1,10 @@
+{
+  "control": [
+    { "VTOY_DEFAULT_MENU_MODE": "TreeView" },
+    { "VTOY_TREEVIEW_MENU_STYLE": "1" }
+  ],
+  "theme": {
+    "file": "/ventoy/theme/jose/theme.txt",
+    "gfxmode": "1920x1080"
+  }
+}

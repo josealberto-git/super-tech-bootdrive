@@ -1,0 +1,16 @@
+MENU NO BOOT - JOSÉ USB TOOLKIT 1.0
+
+01 WINDOWS
+02 LINUX
+03 HIREN'S BOOTCD PE
+04 MEDICAT
+05 WINPE
+06 FERRAMENTAS DE DISCO
+07 BACKUP E RESTAURAÇÃO
+08 DIAGNÓSTICO DE HARDWARE
+09 REDE E INTERNET
+10 ANTIVÍRUS E SEGURANÇA
+11 MINHAS FERRAMENTAS
+
+O Ventoy continua controlando o boot. As categorias são pastas dentro de /ISO.
+As teclas e recursos do Ventoy continuam disponíveis conforme a versão instalada.

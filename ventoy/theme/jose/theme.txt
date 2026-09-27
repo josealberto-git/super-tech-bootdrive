@@ -1,0 +1,34 @@
++ main_menu {
+  left = 5%
+  top = 8%
+  width = 90%
+  height = 84%
+  item_icon = "select_*"
+  item_font = "DejaVu Sans 18"
+  item_color = "#d9f7ff"
+  selected_item_color = "#00e5ff"
+  item_height = 32
+  item_spacing = 8
+}
+
++ label {
+  top = 2%
+  left = 5%
+  width = 90%
+  height = 5%
+  text = "JOSE USB TOOLKIT"
+  color = "#00e5ff"
+  font = "DejaVu Sans Bold 28"
+  align = "center"
+}
+
++ label {
+  top = 93%
+  left = 5%
+  width = 90%
+  height = 4%
+  text = "VENTOY  |  SUPORTE TECNICO  |  MULTIBOOT"
+  color = "#b8c7d9"
+  font = "DejaVu Sans 14"
+  align = "center"
+}
