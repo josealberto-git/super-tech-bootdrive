@@ -1,0 +1,157 @@
+CANIVETE SUIÇO TECNICO - CHECKLIST DE FERRAMENTAS
+=================================================
+
+Este arquivo lista todas as ferramentas que você deve colocar no pendrive.
+
+É IMPORTANTE: Você precisa BAIXAR as ISOs de cada ferramenta e colocar nas pastas.
+Nada vem pré-instalado no pendrive. Você que adiciona conforme precisa.
+
+
+FERRAMENTAS RECOMENDADAS
+=======================
+
+✅ RECOVERY/ (Recuperação e Diagnóstico)
+
+  MediCat USB
+  - Site: https://medicatusb.com/
+  - O que faz: Ferramenta completa de suporte técnico
+  - Vai dentro de: Recovery/
+  - Nome: MediCat.iso
+
+  Hiren's Boot PE
+  - Site: https://www.hirensbootcd.org/
+  - O que faz: Diagnóstico, reparo, recuperação
+  - Vai dentro de: Recovery/
+  - Nome: Hirens_Boot_PE.iso
+
+  Wires Boot
+  - O que faz: Ferramenta de diagnóstico e reparo
+  - Vai dentro de: Recovery/
+  - Nome: Wires_Boot.iso
+
+  Windows PE Recovery
+  - O que faz: Sistema Windows mínimo para recuperação
+  - Vai dentro de: Recovery/
+  - Nome: WinPE_Recovery.iso
+
+✅ LINUX/ (Linux Live)
+
+  Ubuntu Live
+  - Site: https://ubuntu.com/download/desktop
+  - O que faz: Sistema Linux completo
+  - Vai dentro de: Linux/
+  - Nome: Ubuntu_Live.iso
+
+  Linux Mint Live
+  - Site: https://linuxmint.com/
+  - O que faz: Linux alternativa com interface melhor
+  - Vai dentro de: Linux/
+  - Nome: Mint_Live.iso
+
+  Clonezilla
+  - Site: https://clonezilla.org/
+  - O que faz: Backup e restauração de sistemas
+  - Vai dentro de: Linux/
+  - Nome: Clonezilla.iso
+
+  GParted Live
+  - Site: https://gparted.sourceforge.io/
+  - O que faz: Gerenciador de partições
+  - Vai dentro de: Linux/
+  - Nome: GParted_Live.iso
+
+✅ TOOLS/ (Testes e Diagnóstico)
+
+  MemTest86+
+  - Site: https://www.memtest.org/
+  - O que faz: Teste de memória RAM
+  - Vai dentro de: Tools/
+  - Nome: MemTest86.iso
+
+  HDD Scan
+  - O que faz: Teste de disco rígido
+  - Vai dentro de: Tools/
+  - Nome: HddScan.iso
+
+  Crystal Disk Info
+  - O que faz: Informações do disco
+  - Vai dentro de: Tools/
+  - Nome: CrystalDiskInfo.iso
+
+✅ DRIVERS/ (Drivers)
+
+  Intel Drivers
+  - Coloque drivers Intel em: Drivers/Intel/
+  - Ex: chipset, LAN, etc
+
+  Realtek Drivers
+  - Coloque drivers Realtek em: Drivers/Realtek/
+  - Ex: LAN, Áudio, etc
+
+  Nvidia Drivers
+  - Coloque drivers Nvidia em: Drivers/Nvidia/
+  - Ex: placa de vídeo
+
+  AMD Drivers
+  - Coloque drivers AMD em: Drivers/AMD/
+  - Ex: processador, placa de vídeo
+
+✅ PERSONAL/ (Suas ferramentas)
+
+  Aqui você coloca:
+  - Suas ISOs customizadas
+  - Seus utilitários favoritos
+  - Seus scripts
+  - Suas ferramentas proprietárias
+  - Anything else that you need
+
+
+ COMO USAR
+=========
+
+1. Instale o Ventoy no pendrive
+2. Crie as pastas (execute manager.bat opção 1)
+3. Baixe as ISOs das ferramentas acima
+4. Coloque cada ISO na pasta correta
+5. Reinicie o PC
+6. Dé boot pelo pendrive
+7. Escolha a ferramenta no menu
+
+
+TAMANHO DO PENDRIVE
+==================
+
+Recomendação:
+- Mínimo: 16 GB
+- Ideal: 32 GB ou mais
+- Razão: As ISOs ocupam bastante espaço
+
+
+PROXIMOS PASSOS
+===============
+
+1. Execute manager.bat
+2. Escolha opção 1 para criar a estrutura
+3. Baixe as ISOs
+4. Copie para as pastas
+5. Teste o pendrive
+
+
+DUVIDAS?
+========
+
+Todas as ferramentas listadas aqui são:
+- Gratuitas
+- Confiáveis
+- Bem documentadas
+- Fáceis de encontrar
+
+Só procure pelo nome + "download" no Google.
+
+
+PRONTO!
+=======
+
+Você agora tem um canivete suíço técnico profissional.
+
+Bom uso!
