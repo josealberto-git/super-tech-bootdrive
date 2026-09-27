@@ -1,0 +1,54 @@
+{
+  "control": [
+    {
+      "VTOY_DEFAULT_MENU_MODE": "GUI"
+    }
+  ],
+  "theme": {
+    "file": "/ventoy/theme/theme.txt",
+    "gfxmode": "1920x1080"
+  },
+  "menu_class": [
+    {
+      "key": "01",
+      "name": "MediCat",
+      "path": "Recovery/MediCat.iso"
+    },
+    {
+      "key": "02",
+      "name": "Hiren's Boot PE",
+      "path": "Recovery/Hirens_Boot_PE.iso"
+    },
+    {
+      "key": "03",
+      "name": "Wires Boot",
+      "path": "Recovery/Wires_Boot.iso"
+    },
+    {
+      "key": "04",
+      "name": "Windows PE",
+      "path": "Recovery/WinPE_Recovery.iso"
+    },
+    {
+      "key": "05",
+      "name": "Ubuntu Live",
+      "path": "Linux/Ubuntu_Live.iso"
+    },
+    {
+      "key": "06",
+      "name": "Clonezilla",
+      "path": "Linux/Clonezilla.iso"
+    },
+    {
+      "key": "07",
+      "name": "MemTest86",
+      "path": "Tools/MemTest86.iso"
+    },
+    {
+      "key": "08",
+      "name": "Minhas Ferramentas",
+      "path": "Personal/"
+    }
+  ],
+  "auto_memdisk": true
+}
